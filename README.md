@@ -1,4 +1,4 @@
-lear# Say Hello
+# Say Hello
 
 ## Objectives
 
